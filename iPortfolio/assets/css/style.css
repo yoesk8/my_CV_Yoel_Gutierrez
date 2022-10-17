@@ -1074,7 +1074,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   padding: 15px;
-  color: #f4f6fd;
+  color: #434344;
   font-size: 14px;
   position: fixed;
   left: 0;
@@ -1082,6 +1082,10 @@ section {
   width: 300px;
   z-index: 9999;
   background: #040b14;
+}
+
+#footer a {
+  color: #434344;
 }
 
 #footer .copyright {
@@ -1092,7 +1096,7 @@ section {
   padding-top: 5px;
   text-align: center;
   font-size: 13px;
-  color: #eaebf0;
+  color: #323233;
 }
 
 @media (max-width: 1199px) {
